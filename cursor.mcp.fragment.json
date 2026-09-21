@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "pal": {
+      "command": "uvx",
+      "args": [
+        "pal-mcp-server"
+      ]
+    }
+  }
+}
